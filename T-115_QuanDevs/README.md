@@ -1,44 +1,54 @@
-# HealthSpot 
- Your health Our priority 
- <br>
+# 🏥 HealthSpot  
+**Your Health, Our Priority**
 
-This website is hosted at - [Click Here](https://myhealthspot.netlify.app/)
-<br>
-<br>
+🌐 Hosted Website: [👉 Click Here](https://myhealthspot.netlify.app/)
 
-## Features
-• Generates 9 Digit unique Health ID Number 🪪 <br>
-• That contains your whole health record.
-<br>
-<br>
+---
 
-## Screenshot
-<br>
+## 📌 Project Overview  
+**HealthSpot** is a healthcare web application built to simplify storing, accessing, and managing medical records.  
+It generates a **unique 9-digit Health ID Number 🪪** for every user, which securely stores their complete health history and records online.
 
-![WhatsApp Image 2024-03-05 at 13 03 46_7d990782](https://github.com/iarmaansingh/HealthSpot/assets/141659365/696f9577-381c-47c2-ac5d-98468f4f8327)
+---
 
+## 🚀 Features  
+- ✅ Generates a **9-digit unique Health ID**  
+- 🩺 Stores and manages **complete health records**  
+- 💻 Clean, responsive, and user-friendly interface  
+- ☁️ Cloud-based access – no installation needed  
 
+---
 
+## 📸 Screenshot  
 
+![HealthSpot Screenshot](https://github.com/iarmaansingh/HealthSpot/assets/141659365/696f9577-381c-47c2-ac5d-98468f4f8327)
 
-## JSONBin Credentials 
+---
 
-**Gmail:** healthspot92@gmail.com  
+## 👨‍💻 Team Information  
 
-**Password:** healthspot92@armaan  
+| Team Name | QunDevs |
+|-----------|----------|
+| **Team ID** | t115     |
 
+### 👥 Members & Roles  
+- **Rajdeep** – Team Leader & Overall Manager  
+- **Gurkirat** – Backend Developer  
+- **Nikhil** – Frontend Developer  
+- **Armaan** – Frontend Developer  
+- **Ipsit** – Presentation (PPT)
 
+---
 
-## EmailJS Credentials 
+## 🛠️ Tech Stack Used  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python  
 
-**Gmail:** healthspot92@gmail.com  
+---
 
-**Password:** healthspot92@armaan  
+## ⚙️ How to Run the Project  
 
-
-
-
-
-**API Key** - $2a$10$zyQpm6tNv6SvPgWM2E1D1eDfvL1zWu8pc2YI1prGoUikZKK4Zwhd.
-**Bin ID** - 68344ecd8a456b7966a583dd
+### 🌐 Option 1: Run Online  
+The project is deployed and can be accessed directly here:  
+👉 [HealthSpot Live Website](https://myhealthspot.netlify.app/)
 
