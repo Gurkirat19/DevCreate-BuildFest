@@ -21,6 +21,10 @@ It generates a **unique 9-digit Health ID Number 🪪** for every user, which se
 
 ## 📸 Screenshot  
 
+
+### 🖼️ Local Project Screenshot  
+![HealthSpot SS](https://raw.githubusercontent.com/Gurkirat19/DevCreate-BuildFest/main/T-115_QuanDevs/src/HEalthSpot-SS.png)
+
 ![HealthSpot Screenshot](https://github.com/iarmaansingh/HealthSpot/assets/141659365/696f9577-381c-47c2-ac5d-98468f4f8327)
 
 ---
